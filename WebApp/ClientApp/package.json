@@ -73,7 +73,7 @@
     "jquery": "^3.4.1",
     "linq-collections": "*",
     "minimist": "^1.2.6",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "ng2-charts": "2.2.3",
     "ngx-bootstrap": "5.6.1",
     "ngx-clipboard": "^12.3.1",
