@@ -110,7 +110,7 @@
     "typescript": "~3.5.3"
   },
   "optionalDependencies": {
-    "node-sass": "^7.0.1",
+    "node-sass": "^7.0.3",
     "protractor": "~7.0.0",
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1"
